@@ -1,13 +1,13 @@
 # ProjectAutomation-bash
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Language](https://img.shields.io/github/languages/top/krikke99/ProjectAutomation?style=flat)](https://github.com/krikke99/ProjectAutomation-bash)
-[![Last commit](https://img.shields.io/github/last-commit/krikke99/ProjectAutomation.svg?style=flat)](https://github.com/krikke99/ProjectAutomation-bash/commits)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/krikke99/ProjectAutomation)](https://github.com/krikke99/ProjectAutomation-bash/commits)
-[![Github Stars](https://img.shields.io/github/stars/krikke99/ProjectAutomation?style=flat&logo=github)](https://github.com/krikke99/ProjectAutomation-bash/stargazers)
-[![Github Forks](https://img.shields.io/github/forks/krikke99/ProjectAutomation?style=flat&logo=github)](https://github.com/krikke99/ProjectAutomation-bash/network/members)
-[![Github Watchers](https://img.shields.io/github/watchers/krikke99/ProjectAutomation?style=flat&logo=github)](https://github.com/krikke99/ProjectAutomation-bash)
-[![GitHub contributors](https://img.shields.io/github/contributors/krikke99/ProjectAutomation)](https://github.com/krikke99/ProjectAutomation-bash/graphs/contributors)
+[![Language](https://img.shields.io/github/languages/top/krikke99/ProjectAutomation-bash?style=flat)](https://github.com/krikke99/ProjectAutomation-bash)
+[![Last commit](https://img.shields.io/github/last-commit/krikke99/ProjectAutomation-bash.svg?style=flat)](https://github.com/krikke99/ProjectAutomation-bash/commits)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/krikke99/ProjectAutomation-bash)](https://github.com/krikke99/ProjectAutomation-bash/commits)
+[![Github Stars](https://img.shields.io/github/stars/krikke99/ProjectAutomation-bash?style=flat&logo=github)](https://github.com/krikke99/ProjectAutomation-bash/stargazers)
+[![Github Forks](https://img.shields.io/github/forks/krikke99/ProjectAutomation-bash?style=flat&logo=github)](https://github.com/krikke99/ProjectAutomation-bash/network/members)
+[![Github Watchers](https://img.shields.io/github/watchers/krikke99/ProjectAutomation-bash?style=flat&logo=github)](https://github.com/krikke99/ProjectAutomation-bash)
+[![GitHub contributors](https://img.shields.io/github/contributors/krikke99/ProjectAutomation-bash)](https://github.com/krikke99/ProjectAutomation-bash/graphs/contributors)
 
 ## Description
 Automation script to setup a project folder with git and github.
