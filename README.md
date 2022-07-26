@@ -1,4 +1,4 @@
-# ProjectAutomation
+# ProjectAutomation-bash
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Language](https://img.shields.io/github/languages/top/krikke99/ProjectAutomation?style=flat)](https://github.com/krikke99/ProjectAutomation-bash)
